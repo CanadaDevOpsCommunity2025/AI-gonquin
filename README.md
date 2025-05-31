@@ -14,10 +14,13 @@ shtyagi22, mohammedbouadijimi, irtezachy
 
 AWS Codes:
 
-Dalal El Amine : PCPWCBZ721445D
+Dalal El Amine : XXXXXXXXXXXXXX
 
-shtyagi22 : PC1I4KPIWL6FPYB
+shtyagi22 : XXXXXXXXXXXXXX
 
-mohammedbouadijimi : PCMNPCUFI7MLGJ 
+mohammedbouadijimi : XXXXXXXXXXXXXX 
 
-irtezachy: PC24XHDVX5F0AB0 
+irtezachy: XXXXXXXXXXXXXX
+
+### For Credit details please Contact administrator on Slack
+#### https://app.slack.com/huddle/T01BN24U54L/C08SF5BUGN4 
