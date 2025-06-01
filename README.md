@@ -1,6 +1,6 @@
 # AI-gonquin
 
-Project Name: **TBD**
+Project Name: **SwiftPulse**
 
 Group Name: **AI-gonquin**
 
