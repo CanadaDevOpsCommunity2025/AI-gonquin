@@ -1,4 +1,4 @@
-# AI-gonquin
+# SwiftPulse_AI-gonquin
 
 Project Name: **SwiftPulse**
 
