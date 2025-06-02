@@ -1,0 +1,35 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy==1.24.4
+  - pytorch=2.0.1
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8
+  - pip>=23.0
+  - pip:
+      - azure-storage-blob
+      - requests
+      - beautifulsoup4
+      - pandas
+      - feedparser
+      - azure-core
+      - lxml
+      - transformers==4.40.1
+      - accelerate>=0.25.0
+      - peft>=0.6.0
+      - bitsandbytes==0.43.1
+      - datasets>=2.14.0
+      - evaluate>=0.4.0
+      - trl>=0.7.0
+      - azureml-core
+      - azure-storage-blob
+      - huggingface_hub
+      - tokenizers
+      - torch==2.1.2
+      - datasets
+      - scikit-learn
+      - urllib3==1.26.16
+name: llama-chatbot-env

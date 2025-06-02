@@ -1,0 +1,1250 @@
+[
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Samsung', 'may', 'invest']?",
+    "bot": "Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "Any startup news?",
+    "bot": "Yes, here's startup news: Samsung may invest in 100M round for medical imaging startup Exo. Samsungs venture investment unit is looking to invest in California-based medical device startup, Exo, in a round that could climb to 100 million, Bloombergreported, citing anonymous sources.The round is being led by Sands Capital, Bold Capital and Qubit Health Capital, the report said, adding that Qubits chairman, Imar Ishrak, would join Exos board.Founded in 2015, Exo makes handheld medical imag...",
+    "source": "techcrunch",
+    "type": "startup_news"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot. The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot. The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['The', 'Browser', 'Company']?",
+    "bot": "The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot. The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot. The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot. The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot. The Browser Company on Tuesday said it is considering selling or open-sourcing its Arc Browser as it seeks to divert resources to developing a new, AI-powered browser called Dia.When the companyannounced Dia in December 2024, it admitted that Arc was a complex browser for a lot of users, and it wanted to build a product that appealed to the masses. Since then, The Browser Company has been issuing ...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Why landing your first tech job is way harder than you expected. Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Why landing your first tech job is way harder than you expected. Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Why', 'landing', 'your']?",
+    "bot": "Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Why landing your first tech job is way harder than you expected. Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Why landing your first tech job is way harder than you expected. Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Why landing your first tech job is way harder than you expected. Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Why landing your first tech job is way harder than you expected. Its not your imagination, graduating seniors. The tech industrys pullback from entry-level hiring has reached concerning levels. LinkedIns chief economic opportunity officer, Aneesh Raman, warned in The New York Times last week that bottom rungof the career ladder is breaking as AI eliminates traditional stepping-stone positions.The numbers are eye-opening: hiring of new grads by the 15 largest te...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Four VW execs found guilty in trial that transformed Europes auto market. Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Four VW execs found guilty in trial that transformed Europes auto market. Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Four', 'VW', 'execs']?",
+    "bot": "Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Four VW execs found guilty in trial that transformed Europes auto market. Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Four VW execs found guilty in trial that transformed Europes auto market. Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Four VW execs found guilty in trial that transformed Europes auto market. Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Four VW execs found guilty in trial that transformed Europes auto market. Four former Volkswagen executives received prison sentences Monday for their role in the emissions-cheating scandal that fundamentally transformed Europes car market. The verdict, delivered after a three-year trial in Braunschweig, Germany, marked the latest chapter in a 10-year-long saga that reshaped the continents relationship with diesel technology.Jens Hadler, who oversaw diesel engine develo...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Just', '2', 'weeks']?",
+    "bot": "Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "Any startup news?",
+    "bot": "Yes, here's startup news: Just 2 weeks left to apply: Startup Battlefield 200. Founders, the call has gone out. The battlefield is open  and the fearless are already moving.Startup Battlefield 200atTechCrunch Disrupt 2025is still accepting applications  but time is running out. Over 10,000 tech leaders will be watching. This is your chance to stand in the spotlight and be remembered.This is no elevator pitch. This is an all-out battle for recognition, investment, and legacy....",
+    "source": "techcrunch",
+    "type": "startup_news"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Tesla opened Cybertruck trade-ins, and the numbers arent pretty. PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Tesla opened Cybertruck trade-ins, and the numbers arent pretty. PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Tesla', 'opened', 'Cybertruck']?",
+    "bot": "PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Tesla opened Cybertruck trade-ins, and the numbers arent pretty. PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Tesla opened Cybertruck trade-ins, and the numbers arent pretty. PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Tesla opened Cybertruck trade-ins, and the numbers arent pretty. PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Tesla opened Cybertruck trade-ins, and the numbers arent pretty. PerInside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market  but theyll incur a heavy hit in the process.CarGurus recently showed depreciation rates of up to45. Meanwhile, Business Insidertalked this past weekwith two owners who shared firsthand what value Tesla has assigned their Cybertruck. One owner, who bought a 100,000 AWD 2024...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['48', 'hours', 'left:']?",
+    "bot": "There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "Any startup news?",
+    "bot": "Yes, here's startup news: 48 hours left: What you wont want to miss at the 20th TechCrunch Disrupt in October. There are just 48 hours left to save up to 900 on your ticket toTechCrunch Disrupt 2025 and get 90 off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes  along with your best chance to join 10,000 of techs most forward-thinking minds for less.But forget the math for a moment. Lets talk about what you actually get.From October 2729, Moscone West in San Francisco transforms into...",
+    "source": "techcrunch",
+    "type": "startup_news"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Last', '24', 'hours:']?",
+    "bot": "Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "Any startup news?",
+    "bot": "Yes, here's startup news: Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today. Just 24 hours left to lock in Early Bird pricing forTechCrunch Disrupt 2025 happening October 2729 at Moscone West in San Francisco. Save up to 900 on your pass, or bring someone brilliant with you for 90 off their ticket. This deal ends tonight at 11:59 p.m. PT.Grab your Early Bird discount here prices go up after tonight.Youve probably seen the headlines. The speaker lists. The stats. Heres what...",
+    "source": "techcrunch",
+    "type": "startup_news"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Naukri exposed recruiter email addresses, researcher says. Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Naukri exposed recruiter email addresses, researcher says. Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Naukri', 'exposed', 'recruiter']?",
+    "bot": "Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Naukri exposed recruiter email addresses, researcher says. Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Naukri exposed recruiter email addresses, researcher says. Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Naukri exposed recruiter email addresses, researcher says. Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Naukri exposed recruiter email addresses, researcher says. Naukri.com, a popular Indian employment website, has fixed a bug that exposed the email addresses of recruiters using its platform to search and hire talent online.The issue, discovered by security researcher Lohith Gowda, affected the API that Naukri used on its Android and iOS apps. The API exposed the email addresses of recruiters visiting profiles of potential candidates on Naukris platform. T...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Zoox', 'issues', 'second']?",
+    "bot": "Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: Zoox issues second robotaxi software recall in a month following collision. Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8.The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after braking to yield at an intersection.Just weeks earlier,the...",
+    "source": "techcrunch",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['The', 'oldest', 'Fire']?",
+    "bot": "NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: The oldest Fire TV devices are losing Netflix support soon. NewsThe oldest Fire TV devices are losing Netflix support soonIf youve been holding off on an upgrade, maybe its finally time.If youve been holding off on an upgrade, maybe its finally time.byWes DavisUpdatedMay 25, 2025, 10:12 PM UTCLinkFacebookThreadsIllustration by Nick Barclay  The VergeWes Davisis a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, ...",
+    "source": "the_verge",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: The Milky Way Has a Mysterious Broken Bone. Save this storySaveSave this storySaveIf you lookat theMilky Waythrough a powerful telescope, youll notice that close to the center of the galaxy there are elongated filaments that seem to outline its spiral shape. Scientists have a nickname for these structures: galactic bones. Recently, astronomers found that one of the Milky Ways bones is fractured, and they believe theyve now found a possible ...",
+    "source": "wired",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: The Milky Way Has a Mysterious Broken Bone. Save this storySaveSave this storySaveIf you lookat theMilky Waythrough a powerful telescope, youll notice that close to the center of the galaxy there are elongated filaments that seem to outline its spiral shape. Scientists have a nickname for these structures: galactic bones. Recently, astronomers found that one of the Milky Ways bones is fractured, and they believe theyve now found a possible ...",
+    "source": "wired",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['The', 'Milky', 'Way']?",
+    "bot": "Save this storySaveSave this storySaveIf you lookat theMilky Waythrough a powerful telescope, youll notice that close to the center of the galaxy there are elongated filaments that seem to outline its spiral shape. Scientists have a nickname for these structures: galactic bones. Recently, astronomers found that one of the Milky Ways bones is fractured, and they believe theyve now found a possible ...",
+    "source": "wired",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! The Milky Way Has a Mysterious Broken Bone. Save this storySaveSave this storySaveIf you lookat theMilky Waythrough a powerful telescope, youll notice that close to the center of the galaxy there are elongated filaments that seem to outline its spiral shape. Scientists have a nickname for these structures: galactic bones. Recently, astronomers found that one of the Milky Ways bones is fractured, and they believe theyve now found a possible ...",
+    "source": "wired",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! The Milky Way Has a Mysterious Broken Bone. Save this storySaveSave this storySaveIf you lookat theMilky Waythrough a powerful telescope, youll notice that close to the center of the galaxy there are elongated filaments that seem to outline its spiral shape. Scientists have a nickname for these structures: galactic bones. Recently, astronomers found that one of the Milky Ways bones is fractured, and they believe theyve now found a possible ...",
+    "source": "wired",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: PopSockets finally launches a vertical grip stand. Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: PopSockets finally launches a vertical grip stand. Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['PopSockets', 'finally', 'launches']?",
+    "bot": "Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! PopSockets finally launches a vertical grip stand. Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! PopSockets finally launches a vertical grip stand. Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: PopSockets finally launches a vertical grip stand. Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: PopSockets finally launches a vertical grip stand. Read full articlesarah fieldingContributing reporterTue, May 27, 2025, 8:30 AM1 min read0PopSocketsVertical videos have been a part of most people's every day lives for years now. TikTok,YouTube Shorts, Instagram Reels and more are all in portrait mode, as is a typical video call off a smartphone. But it's only now that PopSockets has caught up, releasing theKick-Out Grip and Standthat can balance...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Pick', 'up', 'the']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: Pick up the Apple Watch Series 10 while it's down to a record-low price. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:16 AM0Cherlynn Low for EngadgetMemorial Day may be over, but some of the best holiday sales on tech ar...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Nikon joins other camera manufacturers in raising prices due to tariffs. Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Nikon joins other camera manufacturers in raising prices due to tariffs. Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Nikon', 'joins', 'other']?",
+    "bot": "Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Nikon joins other camera manufacturers in raising prices due to tariffs. Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Nikon joins other camera manufacturers in raising prices due to tariffs. Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Nikon joins other camera manufacturers in raising prices due to tariffs. Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Nikon joins other camera manufacturers in raising prices due to tariffs. Read full articlesteve dentReporterTue, May 27, 2025, 8:00 AM1 min read0Rhonda Dent for EngadgetNikon hasannouncedthat it will increase prices on its photography products in the US due totariffs, joining other camera manufacturersincludingCanon,Blackmagic Designand Leica in doing so. It hasn't yet shared which products will be affected, butseveraloutletshave received word from dealers that the cha...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about [\"Apple's\", 'AirPods', '4']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: Apple's AirPods 4 with ANC drop to 149 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterMon, May 26, 2025, 12:11 PM0Billy Steele for EngadgetApple's AirPods 4 with active noise cancellation (ANC) just became an ...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['The', '2024', 'Ring']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: The 2024 Ring Video Doorbell is cheaper than ever in this Memorial Day sale. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.kris holtContributing ReporterTue, May 27, 2025, 8:46 AM0AmazonMemorial Day brought a myriad of deals on tech products this year, and while the holiday h...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Sonos portable speakers are up to 25 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Sonos portable speakers are up to 25 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Sonos', 'portable', 'speakers']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Sonos portable speakers are up to 25 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Sonos portable speakers are up to 25 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Sonos portable speakers are up to 25 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Sonos portable speakers are up to 25 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.ian carlos campbellContributing ReporterTue, May 27, 2025, 12:06 AM0Nathan Ingrahm for EngadgetSonos has joined in on theMemorial Day salesby discounting...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: MasterClass deal: Get up to 40 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: MasterClass deal: Get up to 40 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['MasterClass', 'deal:', 'Get']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! MasterClass deal: Get up to 40 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! MasterClass deal: Get up to 40 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: MasterClass deal: Get up to 40 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: MasterClass deal: Get up to 40 percent off for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.sam chapmanSenior WriterMon, May 26, 2025, 10:45 AM0MasterClass subscriptions are buy one, get one free in this last-minute gift deal(Masterclass)If you'...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Peacock', 'deal:', 'Get']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: Peacock deal: Get one year of Premium for only 25. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.lawrence bonkContributing ReporterMon, May 26, 2025, 10:16 AM0PeacockA full year of Peacock Premiumis on sale right nowfor 25 as part of a Memorial Day p...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: How to watch SpaceX's ninth Starship flight test on Tuesday. Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: How to watch SpaceX's ninth Starship flight test on Tuesday. Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['How', 'to', 'watch']?",
+    "bot": "Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! How to watch SpaceX's ninth Starship flight test on Tuesday. Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! How to watch SpaceX's ninth Starship flight test on Tuesday. Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: How to watch SpaceX's ninth Starship flight test on Tuesday. Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: How to watch SpaceX's ninth Starship flight test on Tuesday. Read full articlecheyenne macdonaldWeekend EditorSun, May 25, 2025, 5:34 PM2 min read0SpaceXTheFAAlast week cleared SpaceX's Starship to fly again after concluding its review of the previous flight, whichended in an explosion, and the next test could now take off as soon as Tuesday. SpaceX is eyeing May 27 for Starship'sninth flight test, with a launch window opening at 7:30PM ET (6:30PM local tim...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Texas is getting ready to ban social media for anyone under 18. Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Texas is getting ready to ban social media for anyone under 18. Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Texas', 'is', 'getting']?",
+    "bot": "Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Texas is getting ready to ban social media for anyone under 18. Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Texas is getting ready to ban social media for anyone under 18. Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Texas is getting ready to ban social media for anyone under 18. Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Texas is getting ready to ban social media for anyone under 18. Read full articlejackson chenContributing reporterSun, May 25, 2025, 2:02 PM1 min read0Texas SenateTexas could become the next US state to lay down the law with social media platforms. A Texas bill that would ban social media use for anyone under 18 recently moved past the Senate committee and is due for a vote in front of the Texas State Senate. The bill has until the state's legislative session ...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about [\"Apple's\", '13-inch', 'MacBook']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: Apple's 13-inch MacBook Air M4 drops to 850 for Memorial Day. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSun, May 25, 2025, 12:45 PM0Devindra Hardawar for EngadgetIf you've been eyeingApple's newMacBook Air with the M4 chip, n...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Apples', 'smart', 'home']?",
+    "bot": "Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: Apples smart home hub could reportedly make its debut later this year. Read full articlejackson chenContributing reporterSun, May 25, 2025, 12:17 PM1 min read0AppleApple's long-awaited smart home hub could be available as soon as the end of this year, according to the latest report fromBloomberg's Mark Gurman. Rumors surrounding Apple's smart home hub began circulating as early as 2022, when the product was firstreportedly greenlit. However, the road to its release h...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about [\"You'll\", 'soon', 'be']?",
+    "bot": "Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: You'll soon be able to start a Spotify Jam directly in your car. Read full articlejackson chenContributing reporterSat, May 24, 2025, 4:00 PM1 min read0GoogleNo need to pass the aux anymore because Spotify is bringing its Jam feature to cars with Android Auto and Google built-in. As revealed duringGoogle IO, Spotify Jam will be available through any compatible car's infotainment system. It's a minor upgrade, but one that saves the driver from having to manually...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['What', 'to', 'read']?",
+    "bot": "Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "ai_development"
+  },
+  {
+    "user": "What are the big tech companies up to?",
+    "bot": "Here's what's happening with big tech: What to read this weekend: An alien invasion as told by a body snatcher. Read full articleWhy you can trust usEngadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission.Read more about how we evaluate products.cheyenne macdonaldWeekend EditorSat, May 24, 2025, 2:30 PM0These are some recently released titles we think are worth adding to your reading list. This w...",
+    "source": "engadget",
+    "type": "big_tech"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Elden Rings live-action adaptation secures Alex Garland as director. Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Elden Rings live-action adaptation secures Alex Garland as director. Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Elden', 'Rings', 'live-action']?",
+    "bot": "Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Elden Rings live-action adaptation secures Alex Garland as director. Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Elden Rings live-action adaptation secures Alex Garland as director. Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Elden Rings live-action adaptation secures Alex Garland as director. Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Elden Rings live-action adaptation secures Alex Garland as director. Remember when there was a time we all seriously thoughtElden Ringwould never come out? Now not only has it launched, but its a bonafide cultural legend. Now its facing its next evolution: A live-action film adaptation. Bandai Namco and film company A24 announced today that they have selected Alex Garland to lead the adaptation, serving as both director and writer.Garland is a director with a pedig...",
+    "source": "venturebeat",
+    "type": "ai_development"
+  },
+  {
+    "user": "What's the latest tech news?",
+    "bot": "Here's something interesting: Call of Duty sees boost on Twitch thanks to Verdansk map  StreamElements. The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "general_news"
+  },
+  {
+    "user": "Tell me about recent tech developments",
+    "bot": "I can share this recent development: Call of Duty sees boost on Twitch thanks to Verdansk map  StreamElements. The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "tech_update"
+  },
+  {
+    "user": "What do you know about ['Call', 'of', 'Duty']?",
+    "bot": "The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "specific_topic"
+  },
+  {
+    "user": "Can you explain this tech news to me?",
+    "bot": "Sure! Call of Duty sees boost on Twitch thanks to Verdansk map  StreamElements. The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "explanation"
+  },
+  {
+    "user": "Any interesting tech news today?",
+    "bot": "Yes! Call of Duty sees boost on Twitch thanks to Verdansk map  StreamElements. The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "daily_update"
+  },
+  {
+    "user": "What's new in AI?",
+    "bot": "Here's an AI update: Call of Duty sees boost on Twitch thanks to Verdansk map  StreamElements. The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "ai_news"
+  },
+  {
+    "user": "Tell me about AI developments",
+    "bot": "There's this interesting AI development: Call of Duty sees boost on Twitch thanks to Verdansk map  StreamElements. The streaming space saw a relatively quiet April, according toStreamElementslatest State of the Stream report. Twitch saw fewer hours watched than in March, which the report attributes at least in part to a lack of major game releases  games like South of Midnight and Oblivion Remastered not being enough to move the needle on viewers at least. The most notable thing about the month is the precipit...",
+    "source": "venturebeat",
+    "type": "ai_development"
+  }
+]
