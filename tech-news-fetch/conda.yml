@@ -1,0 +1,14 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - azure-storage-blob
+      - requests
+      - beautifulsoup4
+      - pandas
+      - feedparser
+      - azure-core
+      - lxml
+name: llama-chatbot-env
